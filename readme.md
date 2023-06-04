@@ -21,7 +21,7 @@ pip install -r requirements
 Pour démarrer l'application lancez la commande suivante
 
 ```bash
-python sum_api.py 
+flask --app --port=8080 
 ```
  
 # Image docker
